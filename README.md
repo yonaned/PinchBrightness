@@ -1,6 +1,6 @@
 # PinchBrightness
 
-Control your screen brightness in real-time using just your hand and webcam — no buttons, no sliders. Pinch your thumb and index finger together to dim the screen, spread them apart to brighten it.
+Control your screen brightness in real-time using just your hand and webcam no buttons, no sliders. Pinch your thumb and index finger together to dim the screen, spread them apart to brighten it.
 
 Built with **MediaPipe Tasks API** and **OpenCV** on Python.
 
