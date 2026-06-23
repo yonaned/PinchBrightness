@@ -1,4 +1,4 @@
-# Hand Brightness Controller
+# PinchBrightness
 
 Control your screen brightness in real-time using just your hand and webcam — no buttons, no sliders. Pinch your thumb and index finger together to dim the screen, spread them apart to brighten it.
 
